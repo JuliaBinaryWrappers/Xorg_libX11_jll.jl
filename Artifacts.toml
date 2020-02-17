@@ -1,89 +1,89 @@
 [[Xorg_libX11]]
 arch = "aarch64"
-git-tree-sha1 = "9b11f693280005a651d77206f1368c7576d4d20c"
+git-tree-sha1 = "d261377d733beec6d2f051df909ae43ba0da4744"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "79a10e43ddfcfadc37a2cf7297b378d158d5c5d5b466c4b7065b45383ca2a6aa"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.aarch64-linux-musl.tar.gz"
+    sha256 = "dcb6bb3aec026d40c2cfc3fb8e5b3a269129b5ef3ed7489b1500a736115ff311"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.aarch64-linux-musl.tar.gz"
 [[Xorg_libX11]]
 arch = "aarch64"
-git-tree-sha1 = "dc3a3bb28e0e0670a768d3c771ee7271410d9d93"
+git-tree-sha1 = "bbbb31fe103cdf25e173162f2935d13d1b9a9648"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "e44cfd614d95a4ae21657df117ab818f6aa7ad0ab6155bc4b04b1ad4ff17c40a"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.aarch64-linux-gnu.tar.gz"
+    sha256 = "0dc24925fc80a2a8341d0d64663bd70726d864e619ce968b9f9221dcc35781dd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.aarch64-linux-gnu.tar.gz"
 [[Xorg_libX11]]
 arch = "x86_64"
-git-tree-sha1 = "3e5696e943c85f0a4be9f84309e4571041de1a6d"
+git-tree-sha1 = "faf7601c93e393b85572d2e93952aa7107da69b4"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "8b148cf2882c2119087b1175133273b8f307e2d29a759e824a169de54610037d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.x86_64-linux-gnu.tar.gz"
+    sha256 = "119af80dc0cf384cabbc091cf2053c01942e7082ff3b1b28dcd1b9249d41b6fd"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.x86_64-linux-gnu.tar.gz"
 [[Xorg_libX11]]
 arch = "powerpc64le"
-git-tree-sha1 = "f269e9eb7d39726dfd1367ac368e287c76c73284"
+git-tree-sha1 = "69b2a57d55256d248a14a2201537f8d508f96e0e"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "c0455d1929f530fe0acdb7b6fe942b93d7be997ee5de2b00e7c0f3f51b355bef"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "0f7486d3f11ed1974b0ecc64da7c55115e6be5ffc7dacc1483329ecdb594b091"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libX11]]
 arch = "x86_64"
-git-tree-sha1 = "6f22aceef9e7011e485ef2c92bdd7b323e0cb6c2"
+git-tree-sha1 = "af54a75edc886f32c11ed5a30fcc975a7c18f852"
 os = "freebsd"
 
     [[Xorg_libX11.download]]
-    sha256 = "5bb6f005a679d6e41f81094312c2eeac17f2c01762134d29209dbd5fa703663e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "c67f31997ccabd5ec8e43d227d7038edaa9996fd528630a219423dc69b39e16d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.x86_64-unknown-freebsd11.1.tar.gz"
 [[Xorg_libX11]]
 arch = "i686"
-git-tree-sha1 = "851f10f466b59d646973717df15ee6727d170c90"
+git-tree-sha1 = "1212c6a79a92c4d2fb30eeec8678c46b6c3c05fb"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "bd6a41147be3f48a27f4660fad5a635159f326d45d96035bdb334d28c9ccfe88"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.i686-linux-gnu.tar.gz"
+    sha256 = "ea964d6b4ccf2072e09968f37586b3d9bb52bd02460da87c39182ec7cb1417fb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.i686-linux-gnu.tar.gz"
 [[Xorg_libX11]]
 arch = "i686"
-git-tree-sha1 = "5660bfc85da2c1c35b2e5054e93484ebfb1b7388"
+git-tree-sha1 = "41d9fa3013e30840afd9093889e092500b933c1e"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "805920cac2d04dc5b1da950077d498a144b71e0d4ee16dd47e4449d46539136d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.i686-linux-musl.tar.gz"
+    sha256 = "f613b3fae6e862be7818ee426c624b8f3c92a57219c4d3b4c05a1c2bfe78d63d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.i686-linux-musl.tar.gz"
 [[Xorg_libX11]]
 arch = "armv7l"
-git-tree-sha1 = "796b7b203c9ab34dac03401239d11bdac2d64f9e"
+git-tree-sha1 = "84e6d0187ec9e275aca0403d69553b25fbdd56da"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "c8304f2654fc04e2a8e6c88ed44361e775618858d30b43f47c0a7741ef87ef12"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "3b5591d69e9c71c37f7f481c59b5cbf8d846f61e0806f09b3cd39689e50a4e73"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libX11]]
 arch = "x86_64"
-git-tree-sha1 = "0aaa3eded7ce38948fa0b1ca22ad6d17e2ac838a"
+git-tree-sha1 = "e2731998c4eabafb0dca0c61a1312f26951d8f84"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "11082eb4daab45aa7a939e2679385486d22e0d543400cd626bbed134580da89f"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.x86_64-linux-musl.tar.gz"
+    sha256 = "5404fc6cd683478b1e78c86fba2a3ac25cbc773f9ac9ac66a240d83a55861e10"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.x86_64-linux-musl.tar.gz"
 [[Xorg_libX11]]
 arch = "armv7l"
-git-tree-sha1 = "84da20b7f6058f1bda1cea11dbc2b96907d9cbb2"
+git-tree-sha1 = "9eb1fc86553d657849aa99a93e8d49e30b67e021"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libX11.download]]
-    sha256 = "f35a1842ce3a7b6b668e94c60e5d79ca9e70a1994b9b383879e097a7af3bde2c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+0/Xorg_libX11.v1.6.9.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "ee9f6097d49d9512f75c590de35c1efece2180e4ae927e232738fa6ee6d841c3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libX11_jll.jl/releases/download/Xorg_libX11-v1.6.9+1/Xorg_libX11.v1.6.9.armv7l-linux-musleabihf.tar.gz"
